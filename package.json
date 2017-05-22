@@ -1,0 +1,13 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brian Lee <brianjleeofcl@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^7.0.18"
+  },
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
+}
