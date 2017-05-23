@@ -8,6 +8,7 @@ After installing dependencies through npm, run TypeScript with command `$ ./tsc`
 
 i.e., 
 ```shell
+$ npm install
 $ ./tsc
 $ node transpiled/main.js
 ```
